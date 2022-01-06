@@ -1,4 +1,4 @@
-// GENERATED AUTOMATICALLY FROM 'Assets/BLINDED_AM_ME package/Scripts/PlayerInput.inputactions'
+// GENERATED AUTOMATICALLY FROM 'Assets/BLINDED_AM_ME package/Scripts/PlayerScripts/PlayerInput.inputactions'
 
 using System;
 using System.Collections;

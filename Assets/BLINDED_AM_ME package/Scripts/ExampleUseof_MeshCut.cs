@@ -145,8 +145,8 @@ public class ExampleUseof_MeshCut : MonoBehaviour {
                     }
 
 
-                    if (!victim.GetComponent<EnemyHealth>().dead)
-                        return;
+                    //if (!victim.GetComponent<EnemyHealth>().dead)
+                    //    return;
                      GameObject[] pieces = BLINDED_AM_ME.MeshCut.Cut(victim, transform.position, transform.right, capMaterial);
 
 
